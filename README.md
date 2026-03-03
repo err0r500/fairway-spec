@@ -1,3 +1,8 @@
+# Fairway spec
+
+[![validation demo](https://img.youtube.com/vi/AR7GUBSW1rw/0.jpg)](https://www.youtube.com/watch?v=AR7GUBSW1rw)
+
+
 ```
 go run ./cmd/render -file examples/cart.cue -outdir .board/ -watch
 
